@@ -15,8 +15,3 @@ logging.basicConfig(
 
 
 )
-
-if __name__=="__main__":
-    logging.info("Logging is starting")
-    logging.info("Logging is ending")   
-    
